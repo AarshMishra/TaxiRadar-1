@@ -48,9 +48,9 @@ The dataset was preprocessed to create features such as:
 
 3.Download the pre-trained model and dataset:
 
-Model: `taxi_demand_model.joblib`
-Dataset: `combinedTaxiDemandSingapore.csv`
-Place the downloaded files in the project directory.
+- Model: `taxi_demand_model.joblib`
+- Dataset: `combinedTaxiDemandSingapore.csv`
+- Place the downloaded files in the project directory.
 
 ##Model Deployment
 To deploy the model, you can integrate the trained model into a web application or mobile app. The model file taxi_demand_model.joblib can be loaded using joblib in Python for predictions.
@@ -68,6 +68,6 @@ If you would like to contribute to this project, please follow these steps:
 ##Contact
 For any questions or suggestions, feel free to contact:
 
-**Name**: Ishan Gupta
-**Email**: ishan02@gmail.com
-**LinkedIn**: linkedin.com/in/gupta-ishan02
+- **Name**: Ishan Gupta
+- **Email**: ishan02@gmail.com
+- **LinkedIn**: linkedin.com/in/gupta-ishan02
