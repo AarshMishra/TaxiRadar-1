@@ -42,10 +42,32 @@ The dataset was preprocessed to create features such as:
    git clone https://github.com/your-username/TaxiRadar.git
    cd TaxiRadar
 2.Install the required Python packages:
-  ```bash
-  pip install -r requirements.txt
-3.(Optional) Download the pre-trained model and dataset:
+   ```bash
+   pip install -r requirements.txt
+   ```  
 
-Model: Download Link
-Dataset: Download Link
+3.Download the pre-trained model and dataset:
+
+Model: `taxi_demand_model.joblib`
+Dataset: `combinedTaxiDemandSingapore.csv`
 Place the downloaded files in the project directory.
+
+##Model Deployment
+To deploy the model, you can integrate the trained model into a web application or mobile app. The model file taxi_demand_model.joblib can be loaded using joblib in Python for predictions.
+
+##Contributing
+If you would like to contribute to this project, please follow these steps:
+
+- Fork the repository.
+- Create a new branch (git checkout -b feature-branch).
+- Make your changes.
+- Commit your changes (git commit -m 'Add some feature').
+- Push to the branch (git push origin feature-branch).
+- Open a pull request.
+
+##Contact
+For any questions or suggestions, feel free to contact:
+
+**Name**: Ishan Gupta
+**Email**: ishan02@gmail.com
+**LinkedIn**: linkedin.com/in/gupta-ishan02
