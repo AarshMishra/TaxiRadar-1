@@ -10,8 +10,6 @@ Taxi Radar: A predictive model to forecast high-demand areas for taxis using ML 
 • Optimizes taxi fleet management and urban transport.
 
 • Enables smarter, data-driven decisions.
-![image](https://github.com/user-attachments/assets/fdbe6708-ee93-4f3f-b6ea-cfb592d172df)
-
 
 ## Demo
 ![image](https://github.com/user-attachments/assets/da3d994d-0ab5-4236-92f1-e206b1d67b49)
