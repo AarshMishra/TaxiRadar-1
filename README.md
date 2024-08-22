@@ -65,7 +65,7 @@ If you would like to contribute to this project, please follow these steps:
 - Push to the branch (git push origin feature-branch).
 - Open a pull request.
 
-##Contact
+## Contact
 For any questions or suggestions, feel free to contact:
 
 - **Name**: Ishan Gupta
