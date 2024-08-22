@@ -14,7 +14,8 @@ Taxi Radar: A predictive model to forecast high-demand areas for taxis using ML 
 ## Demo
 ![image](https://github.com/user-attachments/assets/da3d994d-0ab5-4236-92f1-e206b1d67b49)
 ![image](https://github.com/user-attachments/assets/1a84559b-ca8e-4e10-ae0a-475a6a94a49e)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c5bc1e90-d04b-4341-9a47-fd7d53258b05)
+
 
 
 project-name/
