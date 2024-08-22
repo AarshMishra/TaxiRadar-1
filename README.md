@@ -11,6 +11,18 @@ Taxi Radar: A predictive model to forecast high-demand areas for taxis using ML 
 
 • Enables smarter, data-driven decisions.
 
+
+**TaxiRadar** is a machine learning project that predicts high-demand taxi pick-up locations in real-time, using a combination of historical data, real-time weather, and traffic information. The project is designed to assist taxi drivers in optimizing their routes and increasing their pick-up efficiency by suggesting nearby locations with high demand.
+
+## Project Overview
+
+- **Model Used**: Random Forest Regression and LSTM models
+- **Accuracy Achieved**: Over 90%
+- **Key Features**:
+  - Predicts taxi demand based on historical and real-time data
+  - Visualizes the top locations with predicted high demand
+  - Calculates distance from the current location to suggested high-demand locations
+
 ## Demo
 
 ![image](https://github.com/user-attachments/assets/a8b63376-d882-4073-b039-7a5fdeb6e0b7)
