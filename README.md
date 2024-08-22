@@ -52,10 +52,10 @@ The dataset was preprocessed to create features such as:
 - Dataset: `combinedTaxiDemandSingapore.csv`
 - Place the downloaded files in the project directory.
 
-##Model Deployment
+## Model Deployment
 To deploy the model, you can integrate the trained model into a web application or mobile app. The model file taxi_demand_model.joblib can be loaded using joblib in Python for predictions.
 
-##Contributing
+## Contributing
 If you would like to contribute to this project, please follow these steps:
 
 - Fork the repository.
