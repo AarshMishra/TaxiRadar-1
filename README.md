@@ -34,3 +34,18 @@ The dataset was preprocessed to create features such as:
 - `TaxiRadar.ipynb`: The main Jupyter notebook containing the code for data preprocessing, model training, prediction, and visualization.
 - `combinedTaxiDemandSingapore.csv`: The dataset used in the project (not included due to size).
 - `taxi_demand_model.joblib`: The trained machine learning model (not included due to size; see below for download instructions).
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/TaxiRadar.git
+   cd TaxiRadar
+2.Install the required Python packages:
+  ```bash
+  pip install -r requirements.txt
+3.(Optional) Download the pre-trained model and dataset:
+
+Model: Download Link
+Dataset: Download Link
+Place the downloaded files in the project directory.
